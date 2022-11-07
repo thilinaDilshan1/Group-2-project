@@ -1,42 +1,49 @@
-.service{
-	background: rgb(252, 246, 246);
-	width: 100%;
-	padding: 50px 0px;
+.service {
+    background: rgb(252, 246, 246);
+    width: 100%;
+    padding: 50px 0px;
 }
 
-.box{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 300px;
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
 }
-.card{
-	height: 265px;
-	width: 335px;
-	padding: 5px 35px;
-	background: #191919;
-	border-radius: 20px;
-	margin: 15px;
-	position: relative;
-	overflow: hidden;
-	text-align: center;
-}
-.card i{
-	font-size: 50px;
-	display: block;
-	text-align: center;
-	margin: 25px 0px;
-	color: #f9004d;
 
+.card {
+    height: 265px;
+    width: 335px;
+    padding: 5px 35px;
+    background: #191919;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
 }
-h5{
-	color: white;
-	font-size: 23px;
-	margin-bottom: 15px;
+
+.card i {
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+    color: #f9004d;
 }
-.pra p{
-	color: #fcfc;
-	font-size: 16px;
-	line-height: 27px;
-	margin-bottom: 25px;
+
+h5 {
+    color: white;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.pra p {
+    color: #fcfc;
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
+
+.icon-white {
+    color: white;
 }
