@@ -16,3 +16,6 @@ Fork this repository.
 
 1. Click on the Fork button on the top right corner of this page.
    <img src="img/img1.png">
+
+2. You will be redirected to your forked repository.
+   <img src="img/img2.png">
