@@ -1,3 +1,5 @@
+## Visit <a href="https://thilinadilshan1.github.io/Group-2-project/">Site</a>
+
 # Career Guidance Programme Group-2-project
 
 Career guidance program of Faculty of Applied Science, 2022-11-5.
@@ -19,3 +21,6 @@ Fork this repository.
 
 2. You will be redirected to your forked repository.
    <img src="img/img2.png">
+   Click on create fork button
+
+3. You will be redirected to your forked repository.
