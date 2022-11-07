@@ -1,4 +1,4 @@
-## Visit <a href="https://thilinadilshan1.github.io/Group-2-project/">Site</a>
+## Click <a href="https://thilinadilshan1.github.io/Group-2-project/">Here</a> to Visit the Site
 
 # Career Guidance Programme Group-2-project
 
