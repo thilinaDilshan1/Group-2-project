@@ -228,3 +228,56 @@ h5 {
     background-color: #ffffff;
     color: #ff3a00;
 }
+
+.about {
+    width: 100%;
+    padding: 30px 0px;
+    background-color: #e9dada;
+}
+
+.about2 img {
+    height: auto;
+    width: 530px;
+}
+
+.about-text {
+    width: 550px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h2 {
+    color: rgb(21, 13, 39);
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.about-text h5 {
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.about-text p {
+    color: rgba(20, 10, 4, 0.8);
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+
+.about2 {
+    width: 100%;
+    padding: 30px 0px;
+    background-color: #9ff2f7;
+}
